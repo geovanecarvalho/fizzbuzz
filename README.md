@@ -1,6 +1,7 @@
 # Fizzbuzz
 Crie uma ambiente virtual 
-```virtualenv .venv
+```
+virtualenv .venv
 ```
 Instale o pacote
 ```
